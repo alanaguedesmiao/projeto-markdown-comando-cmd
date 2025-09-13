@@ -119,13 +119,5 @@ taskkill /im chrome.exe /f
 
 
 
-## 📌 E o que é o `.md`?
 
-a extensão `.md` significa **markdown**, uma linguagem de marcação leve para **formatar texto** com títulos, listas, links, imagens e código, de forma simples.
 
-Por exemplo:
-
-```md
-# Título
-## subtitulo
-**negrito**, *itálico, `codigo`
